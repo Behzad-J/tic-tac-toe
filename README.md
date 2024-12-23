@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Portfolio
+# Tic-Tac-Toe
 
 Welcome to my Tic-Tac-Toe portfolio! This repository showcases two Java-based implementations of the classic Tic-Tac-Toe game, designed to demonstrate my software engineering skills and understanding of object-oriented programming (OOP) principles.
 
