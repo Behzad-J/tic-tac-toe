@@ -43,3 +43,7 @@ The two main classes supporting these variations are:
    - Players input moves using row and column numbers (e.g., `(1,1)` for the top-left cell).
 
 ---
+
+### Prerequisites to Run the Game
+- Install Java Development Kit (JDK) 8 or higher.
+
