@@ -89,5 +89,5 @@ The next logical improvement is incorporating the smarter computer player logic 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/tic-tac-toe.git
+   git clone https://github.com/Behzad-J/tic-tac-toe.git
    cd tic-tac-toe
